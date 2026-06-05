@@ -44,7 +44,7 @@ When one of the involved types is a floating-point type, the result will also be
 
 ## Assignment operator
 
-The assignment operator assigns a variable with a value.
+The assignment operator assigns a value to a variable.
 Always takes place from right to left, and never the other way around.
 
 ```cpp
